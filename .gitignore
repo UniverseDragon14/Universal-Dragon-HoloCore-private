@@ -1,0 +1,14 @@
+*.stl
+*.gcode
+*.tar.gz
+*.zip
+*.iso
+*.log
+.venv/
+venv/
+node_modules/
+*.bin
+*.apk
+.env
+*.json
+.ssh/
